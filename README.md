@@ -80,12 +80,12 @@ To try the live demo, use the following credentials:
 
 **Admin role**
 
-- **Username:** admin001@example.com
+- **Username:** admin01@example.com
 - **Password:** demo1234567890
 
 **Handyman role**
 
-- **Username:** fixer000@example.com
+- **Username:** fixer01@example.com
 - **Password:** demo1234567890
 
 **Customer role**
