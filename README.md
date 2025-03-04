@@ -4,7 +4,7 @@
 
 ## Live Demo Link
 
-[ https://home-service-finalproject.vercel.app/ ]
+[ https://home-services-devkit.vercel.app/ ]
 
 ## Project Overview
 
@@ -80,12 +80,12 @@ To try the live demo, use the following credentials:
 
 **Admin role**
 
-- **Username:** admin01@example.com
+- **Username:** admin_01@example.com
 - **Password:** demo1234567890
 
 **Handyman role**
 
-- **Username:** fixer01@example.com
+- **Username:** fixer_01@example.com
 - **Password:** demo1234567890
 
 **Customer role**
