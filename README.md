@@ -4,7 +4,7 @@
 
 ## Live Demo Link
 
-[ https://home-services-devkit.vercel.app/ ]
+[ https://home-services-project-dev-kits-projects.vercel.app/ ]
 
 ## Project Overview
 
